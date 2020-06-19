@@ -1,0 +1,2 @@
+[2020-06-15 22:25:11.222] [renderer1] [error] ENOENT: no such file or directory, unlink '/home/msi-lap/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/home/msi-lap/.local/share/vsliveshare/cascade.json'
+[2020-06-15 22:25:30.101] [renderer1] [error] ENOENT: no such file or directory, unlink '/home/msi-lap/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/home/msi-lap/.local/share/vsliveshare/cascade.json'

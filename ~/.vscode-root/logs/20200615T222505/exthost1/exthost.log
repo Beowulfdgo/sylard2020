@@ -1,0 +1,96 @@
+[2020-06-15 22:25:08.296] [exthost] [info] extension host started
+[2020-06-15 22:25:08.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-15 22:25:08.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-15 22:25:08.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-15 22:25:08.342] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-15 22:25:08.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-15 22:25:08.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-15 22:25:08.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-15 22:25:08.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-15 22:25:08.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-15 22:25:08.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-15 22:25:08.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-15 22:25:08.435] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-06-15 22:25:08.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-15 22:25:08.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-15 22:25:08.445] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-15 22:25:08.445] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-15 22:25:08.458] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-15 22:25:08.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-15 22:25:08.459] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-06-15 22:25:08.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/out/prod/extension-prod
+[2020-06-15 22:25:08.703] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-06-15 22:25:08.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-06-15 22:25:10.209] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-06-15 22:25:10.209] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+    at ChildProcess.<anonymous> (/home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-15 22:25:10.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-15 22:25:10.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-06-15 22:25:10.219] [exthost] [info] eager extensions activated
+[2020-06-15 22:25:27.932] [exthost] [info] extension host started
+[2020-06-15 22:25:27.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-15 22:25:27.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-15 22:25:27.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-15 22:25:27.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-15 22:25:27.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-15 22:25:27.959] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-15 22:25:27.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-15 22:25:27.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-15 22:25:27.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-15 22:25:27.998] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-15 22:25:28.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-15 22:25:28.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-06-15 22:25:28.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-15 22:25:28.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-15 22:25:28.008] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-15 22:25:28.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-15 22:25:28.018] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-15 22:25:28.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-15 22:25:28.019] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-06-15 22:25:28.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/out/prod/extension-prod
+[2020-06-15 22:25:28.086] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-06-15 22:25:28.086] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-06-15 22:25:28.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-06-15 22:25:28.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-06-15 22:25:29.093] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-06-15 22:25:29.093] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+    at ChildProcess.<anonymous> (/home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2236/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-15 22:25:29.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-15 22:25:29.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-06-15 22:25:29.105] [exthost] [info] eager extensions activated
+[2020-06-15 22:26:35.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-06-15 22:26:35.909] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-15 22:26:35.931] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2020-06-15 22:26:35.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.7/dist/intellicode
+[2020-06-15 22:26:36.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-15 22:26:36.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-15 22:26:36.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-15 22:26:36.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-15 22:27:12.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-15 22:27:12.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2020-06-15 22:27:12.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-15 22:27:12.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2020-06-15 22:27:12.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-15 22:27:12.247] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
+[2020-06-15 22:49:44.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-06-15 22:49:44.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-06-15 22:49:44.374] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-06-15 22:49:44.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js

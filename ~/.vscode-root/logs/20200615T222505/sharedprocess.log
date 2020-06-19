@@ -1,0 +1,33 @@
+[2020-06-15 22:25:09.806] [sharedprocess] [info] main {"machineId":"419628b2833e9768d34dfac717afba369f5d65bd3ee223ec26885974bf650367","windowId":2}
+[2020-06-15 22:25:09.837] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/msi-lap/382437ea-2f35-4576-85b8-d35145839b4a/Descargas/sylard/~/.vscode-root/User/snippets'
+[2020-06-15 22:25:12.994] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-15 22:25:12.994] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2020-06-15 22:25:12.994] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-06-15 22:25:12.994] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2020-06-15 22:25:12.994] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-06-15 22:25:36.704] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/52d5842e-efba-49ea-bd57-bcb83add16c1
+[2020-06-15 22:25:36.808] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.vscjava.vscode-java-test-0.23.0: vscjava.vscode-java-test
+[2020-06-15 22:25:36.808] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/vscjava.vscode-java-test-0.23.0
+[2020-06-15 22:25:36.809] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2020-06-15 22:25:36.868] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2020-06-15 22:25:49.819] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-15 22:25:51.302] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/26561922-5015-4442-89bc-860b41b14ac3
+[2020-06-15 22:25:51.652] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.8: visualstudioexptteam.vscodeintellicode
+[2020-06-15 22:25:51.652] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8
+[2020-06-15 22:25:51.653] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-06-15 22:25:51.673] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-06-15 22:26:02.739] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /tmp/da624a3e-e7c5-4256-ab52-e5fe540ad0c0
+[2020-06-15 22:26:03.445] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.2302: ms-vsliveshare.vsliveshare
+[2020-06-15 22:26:03.445] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2302
+[2020-06-15 22:26:03.447] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2020-06-15 22:26:03.471] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2020-06-15 22:26:07.501] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/c2e51f1b-9c30-4dae-bbe9-3cf0f21b05c7
+[2020-06-15 22:26:07.715] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.vscjava.vscode-maven-0.22.0: vscjava.vscode-maven
+[2020-06-15 22:26:07.715] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/vscjava.vscode-maven-0.22.0
+[2020-06-15 22:26:07.716] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-06-15 22:26:07.735] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-06-15 22:26:21.013] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/bb53fe2b-e38a-4a1d-98f0-72015f683669
+[2020-06-15 22:26:23.089] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-06-15 22:26:23.089] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/ms-python.python-2020.5.86806
+[2020-06-15 22:26:23.092] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-15 22:26:23.153] [sharedprocess] [info] Extensions installed successfully: ms-python.python

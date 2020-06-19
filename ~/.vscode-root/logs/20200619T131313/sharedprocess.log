@@ -1,0 +1,20 @@
+[2020-06-19 13:13:16.810] [sharedprocess] [info] main {"machineId":"419628b2833e9768d34dfac717afba369f5d65bd3ee223ec26885974bf650367","windowId":2}
+[2020-06-19 13:13:19.626] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-19 13:13:19.627] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2020-06-19 13:13:19.627] [sharedprocess] [info] Installing extension: redhat.java
+[2020-06-19 13:13:56.825] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-19 13:13:59.356] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /tmp/2b622cc5-5f6a-47f9-a71f-6543a34a5e09
+[2020-06-19 13:14:00.045] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.2354: ms-vsliveshare.vsliveshare
+[2020-06-19 13:14:00.045] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2354
+[2020-06-19 13:14:00.046] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2020-06-19 13:14:00.060] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2020-06-19 13:14:33.257] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/0e94cb72-9aa2-4388-b447-112e4dd86488
+[2020-06-19 13:14:33.878] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.redhat.java-0.63.0: redhat.java
+[2020-06-19 13:14:33.878] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/redhat.java-0.63.0
+[2020-06-19 13:14:33.879] [sharedprocess] [info] Installation completed. redhat.java
+[2020-06-19 13:14:33.918] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2020-06-19 13:14:55.052] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/cf2fad0a-e807-4a8a-a8f1-da83e35d73fd
+[2020-06-19 13:14:56.907] [sharedprocess] [info] Extracted extension to /home/msi-lap/.vscode/extensions/.ms-python.python-2020.6.89148: ms-python.python
+[2020-06-19 13:14:56.907] [sharedprocess] [info] Renamed to /home/msi-lap/.vscode/extensions/ms-python.python-2020.6.89148
+[2020-06-19 13:14:56.911] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-19 13:14:56.948] [sharedprocess] [info] Extensions installed successfully: ms-python.python

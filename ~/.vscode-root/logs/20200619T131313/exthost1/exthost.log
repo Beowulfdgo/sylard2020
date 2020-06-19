@@ -1,0 +1,80 @@
+[2020-06-19 13:13:16.443] [exthost] [info] extension host started
+[2020-06-19 13:13:16.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-06-19 13:13:16.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-19 13:13:16.510] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2020-06-19 13:13:16.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/dist/intellicode
+[2020-06-19 13:13:16.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-19 13:13:16.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-19 13:13:16.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-19 13:13:16.594] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-19 13:13:16.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-19 13:13:16.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-19 13:13:16.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-19 13:13:16.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-19 13:13:16.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-19 13:13:16.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-19 13:13:16.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-19 13:13:16.673] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-06-19 13:13:16.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-19 13:13:16.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-19 13:13:16.683] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-19 13:13:16.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-19 13:13:16.703] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-19 13:13:16.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-19 13:13:16.706] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-06-19 13:13:16.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2302/out/prod/extension-prod
+[2020-06-19 13:13:16.968] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-06-19 13:13:16.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/msi-lap/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-06-19 13:13:17.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-06-19 13:13:17.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-19 13:13:17.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-06-19 13:13:17.409] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-06-19 13:13:17.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-06-19 13:13:17.419] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-19 13:13:17.440] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-06-19 13:13:17.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-06-19 13:13:17.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-06-19 13:13:17.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-06-19 13:13:17.654] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-06-19 13:13:17.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-06-19 13:13:25.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-19 13:13:25.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-06-19 13:13:25.380] [exthost] [info] eager extensions activated
+[2020-06-19 13:28:59.170] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-19 13:28:59.207] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54638)
+    at e.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226358)
+    at e.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225276)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224752
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+    at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233414)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233062)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

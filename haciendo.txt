@@ -7,3 +7,6 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
 https://www.youtube.com/watch?v=mL98h2ms-9U&list=PLPl81lqbj-4KmEokV2b5tRtpBVgEVm0Nz&index=3
 min 12:24
+
+curso de github
+https://www.youtube.com/watch?v=hWglK8nWh60&t=337s

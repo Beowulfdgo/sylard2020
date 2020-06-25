@@ -6,7 +6,8 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
 
 https://www.youtube.com/watch?v=mL98h2ms-9U&list=PLPl81lqbj-4KmEokV2b5tRtpBVgEVm0Nz&index=3
-min 15:24
+https://www.youtube.com/watch?v=jKHVTTPuJr8&list=PLPl81lqbj-4KmEokV2b5tRtpBVgEVm0Nz&index=4
+min 1
 
 curso de github 22:32 min login vconde github
 https://www.youtube.com/watch?v=hWglK8nWh60&t=337s
